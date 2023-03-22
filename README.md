@@ -1,5 +1,4 @@
 ### Hi there 👋
-Problem Solving Ninja!
 
 - 🔭 I’m currently working on Software Engineering and reproducible research in the Bloomtech Data Science program.
 - 🌱 I’m currently learning Data Science at Bloomtech!
