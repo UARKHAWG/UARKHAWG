@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Software Engineering and reproducible research in the Bloomtech Data Science program.
+- 🔭 I’m currently working with SQL databases in the Bloomtech Data Science program.
 - 🌱 I’m currently learning Data Science at Bloomtech!
 - 💬 Ask me about the logistics/transportation, Computer Vision projects, the great outdoors, and state parks!
 - ⚡ Fun fact: I love traveling, hiking with my wife, kids, and dogs. </br></br></br></br>
