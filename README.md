@@ -1,4 +1,4 @@
-# Python Programmer, Machine Learning Engineer, Data Scientist | Outdoor Enthusiast | Dog Lover
+# Data Scientist | Python Programmer | ML/NLP Engineer | Outdoor Enthusiast | Dog Lover
 
 Welcome to my GitHub profile! I am a passionate Python programmer, machine learning engineer, and data scientist with a love for the outdoors and spending quality time with my family and a pack of dogs. Here's a glimpse into my journey:</br></br>
 Professional Background</br>
