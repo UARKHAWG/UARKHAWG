@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Data Science, my dogs or hiking places and kayaking spots!**
 
-- 📫 How to reach me **uarkhawg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
