@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects!**
 
-- 💬 Ask me about **Data Science, my dogs or hiking places and kayaking spots!**
+- 💬 Ask me about **Data Science, my dogs or the great outdoors!!!**
 
 
 <h3 align="left">Connect with me:</h3>
