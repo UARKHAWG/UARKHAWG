@@ -1,5 +1,5 @@
 
-<h3 align="center">Data scientist, python programmer, ML/NLP engineer, with a love for the outdoors and spending quality time with my family and my pack of dogs.</h3>
+<h3 align="center">Data scientist, python programmer, ML/NLP engineer, passionate about data, enjoying the great outdoors and spending quality time with my family and my pack of dogs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uarkhawg&label=Profile%20views&color=0e75b6&style=flat" alt="uarkhawg" /> </p>
 
