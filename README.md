@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uarkhawg&label=Profile%20views&color=0e75b6&style=flat" alt="uarkhawg" /> </p>
 
-- 🌱 I’m currently learning **Data Science at Bloomtech!!!**
+- 🌱 **Bloomtech Data Science Graduate**
 
 - 👯 I’m looking to collaborate on **Data Science projects!**
 
